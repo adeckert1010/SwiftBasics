@@ -1,11 +1,52 @@
-//: Playground - noun: a place where people can play
+//Variables
 
 var str = "Hello, playground"
-str
-
 str = "Hello, world!"
-str
 
 var number = 10
-
 number = 20
+
+//Constants
+
+let language = "Swift"
+
+//Naming Conventions
+
+/*
+ Rule #1: Spaces not allowed
+ let programming language = "Objective-C"
+*/
+
+/*
+ Rule #2: Use camel case
+ let programminglanguage ="Objective-C" //WRONG
+*/
+
+let programmingLanguage = "Objective-C"
+let favoriteProgrammingLanguage = "Swift"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
